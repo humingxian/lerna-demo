@@ -1,11 +1,11 @@
-# `@humingxian/test1`
+# `hudada-test2`
 
 > TODO: description
 
 ## Usage
 
 ```
-const test1 = require('@humingxian/test1');
+const hudadaTest2 = require('hudada-test2');
 
 // TODO: DEMONSTRATE API
 ```
