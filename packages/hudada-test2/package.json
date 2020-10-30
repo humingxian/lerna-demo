@@ -7,8 +7,7 @@
   "license": "ISC",
   "main": "lib/hudada-test2.js",
   "directories": {
-    "lib": "lib",
-    "test": "__tests__"
+    "lib": "lib"
   },
   "files": [
     "lib"
@@ -26,6 +25,7 @@
   "homepage": "https://github.com/humingxian/lerna-demo#readme",
   "dependencies": {
     "chalk": "^4.1.0",
-    "hudada-test1": "^0.0.2"
+    "hudada-test1": "^0.0.2",
+    "lodash": "^4.17.20"
   }
 }

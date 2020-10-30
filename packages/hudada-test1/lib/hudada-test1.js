@@ -3,5 +3,6 @@
 module.exports = hudadaTest1;
 
 function hudadaTest1() {
-    // TODO
+    const str = 'i' + ' ' + 'love' + ' ' + 'you'
+    return str
 }
